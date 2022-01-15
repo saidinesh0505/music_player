@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MusicPlayer">
         <activity
+            android:name=".listadaptor"
+            android:exported="false" />
+        <activity
+            android:name=".listview"
+            android:exported="false" />
+        <activity
             android:name=".ml"
             android:exported="false" />
         <activity

@@ -4,10 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/musicplayer/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/musicplayer/app/src/main/res/layout/activity_listadaptor.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/musicplayer/app/src/main/res/layout/activity_listview.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/musicplayer/app/src/main/res/layout/activity_log.xml" value="0.13020833333333334" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/musicplayer/app/src/main/res/layout/activity_main.xml" value="0.12360688956433637" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/musicplayer/app/src/main/res/layout/activity_ml.xml" value="0.15625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/musicplayer/app/src/main/res/layout/listviewbg.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/musicplayer/app/src/main/res/layout/lv.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/musicplayer/app/src/main/res/layout/top.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/musicplayer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2462962962962963" />
       </map>
     </option>

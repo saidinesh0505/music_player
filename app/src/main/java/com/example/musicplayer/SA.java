@@ -23,7 +23,7 @@ public class SA extends ArrayAdapter<s> {
 
         if(convertView==null)
         {
-            convertView= LayoutInflater.from(getContext()).inflate(R.layout.lv,parent,false);
+            convertView= LayoutInflater.from(getContext()).inflate(R.layout.listviewbg,parent,false);
         }
         s currentPosition=getItem(position);
         TextView song=(TextView) convertView.findViewById(R.id.song);

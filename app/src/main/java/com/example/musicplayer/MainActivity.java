@@ -18,6 +18,7 @@ Button b;
             @Override
             public void onClick(View v) {
                 Intent a=new Intent(getApplicationContext(),log.class);
+                startActivity(a);
             }
         });
     }
